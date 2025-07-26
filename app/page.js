@@ -1,15 +1,15 @@
-import ModernHero from "./components/ModernHero";
+import EnhancedHero from "./components/EnhancedHero";
+import EnhancedServices from "./components/EnhancedServices";
+import EnhancedFeatures from "./components/EnhancedFeatures";
 import Aboutus from "./components/Aboutus";
 import Contactus from "./components/Contactus";
-import Features from "./components/Features";
-import Services from "./components/Services";
 
 export default function Home() {
   return (
     <div className="overflow-hidden">
-      <ModernHero/>
-      <Services/>
-      <Features/>
+      <EnhancedHero/>
+      <EnhancedServices/>
+      <EnhancedFeatures/>
       <Contactus/>
       <Aboutus/>
     </div>

@@ -1,0 +1,188 @@
+{
+  "soil_data": {
+    "sample_001": {
+      "timestamp": "2025-01-27T08:00:00Z",
+      "npk": {
+        "nitrogen": 22.5,
+        "phosphorus": 16.8,
+        "potassium": 19.2
+      },
+      "moisture": 68.5,
+      "ph": 6.8,
+      "crop_type": "Wheat",
+      "location": {
+        "latitude": 28.6139,
+        "longitude": 77.2090,
+        "region": "Delhi, India"
+      },
+      "sensor_id": "SOIL_001",
+      "quality_score": 85,
+      "recommendations": [
+        "Nitrogen levels are optimal for wheat growth",
+        "Consider slight phosphorus supplementation",
+        "Maintain current irrigation schedule"
+      ]
+    },
+    "sample_002": {
+      "timestamp": "2025-01-27T08:15:00Z",
+      "npk": {
+        "nitrogen": 18.3,
+        "phosphorus": 14.2,
+        "potassium": 21.7
+      },
+      "moisture": 62.1,
+      "ph": 6.4,
+      "crop_type": "Rice",
+      "location": {
+        "latitude": 22.5726,
+        "longitude": 88.3639,
+        "region": "West Bengal, India"
+      },
+      "sensor_id": "SOIL_002",
+      "quality_score": 78,
+      "recommendations": [
+        "Increase nitrogen application for rice",
+        "Potassium levels are excellent",
+        "Monitor moisture levels closely"
+      ]
+    },
+    "sample_003": {
+      "timestamp": "2025-01-27T08:30:00Z",
+      "npk": {
+        "nitrogen": 25.1,
+        "phosphorus": 18.9,
+        "potassium": 17.4
+      },
+      "moisture": 71.2,
+      "ph": 7.1,
+      "crop_type": "Corn",
+      "location": {
+        "latitude": 19.0760,
+        "longitude": 72.8777,
+        "region": "Maharashtra, India"
+      },
+      "sensor_id": "SOIL_003",
+      "quality_score": 92,
+      "recommendations": [
+        "Excellent nitrogen and phosphorus levels",
+        "Consider potassium supplementation",
+        "Soil conditions are ideal for corn"
+      ]
+    },
+    "sample_004": {
+      "timestamp": "2025-01-27T08:45:00Z",
+      "npk": {
+        "nitrogen": 16.7,
+        "phosphorus": 12.3,
+        "potassium": 20.8
+      },
+      "moisture": 58.9,
+      "ph": 6.2,
+      "crop_type": "Soybean",
+      "location": {
+        "latitude": 23.2599,
+        "longitude": 77.4126,
+        "region": "Madhya Pradesh, India"
+      },
+      "sensor_id": "SOIL_004",
+      "quality_score": 74,
+      "recommendations": [
+        "Increase nitrogen for better soybean yield",
+        "Phosphorus needs supplementation",
+        "Good potassium levels maintained"
+      ]
+    },
+    "sample_005": {
+      "timestamp": "2025-01-27T09:00:00Z",
+      "npk": {
+        "nitrogen": 21.9,
+        "phosphorus": 17.5,
+        "potassium": 18.6
+      },
+      "moisture": 65.7,
+      "ph": 6.9,
+      "crop_type": "Cotton",
+      "location": {
+        "latitude": 17.3850,
+        "longitude": 78.4867,
+        "region": "Telangana, India"
+      },
+      "sensor_id": "SOIL_005",
+      "quality_score": 88,
+      "recommendations": [
+        "Balanced NPK levels for cotton",
+        "Maintain current fertilization schedule",
+        "Optimal moisture content achieved"
+      ]
+    },
+    "sample_006": {
+      "timestamp": "2025-01-27T09:15:00Z",
+      "npk": {
+        "nitrogen": 19.4,
+        "phosphorus": 15.8,
+        "potassium": 22.3
+      },
+      "moisture": 69.3,
+      "ph": 6.6,
+      "crop_type": "Sugarcane",
+      "location": {
+        "latitude": 26.9124,
+        "longitude": 80.9466,
+        "region": "Uttar Pradesh, India"
+      },
+      "sensor_id": "SOIL_006",
+      "quality_score": 81,
+      "recommendations": [
+        "Good nitrogen levels for sugarcane",
+        "Excellent potassium content",
+        "Consider phosphorus boost during growth phase"
+      ]
+    },
+    "sample_007": {
+      "timestamp": "2025-01-27T09:30:00Z",
+      "npk": {
+        "nitrogen": 23.8,
+        "phosphorus": 19.2,
+        "potassium": 16.9
+      },
+      "moisture": 72.8,
+      "ph": 7.3,
+      "crop_type": "Tomato",
+      "location": {
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "region": "Karnataka, India"
+      },
+      "sensor_id": "SOIL_007",
+      "quality_score": 90,
+      "recommendations": [
+        "Excellent nitrogen and phosphorus for tomatoes",
+        "Increase potassium for fruit development",
+        "Perfect moisture and pH levels"
+      ]
+    },
+    "sample_008": {
+      "timestamp": "2025-01-27T09:45:00Z",
+      "npk": {
+        "nitrogen": 17.2,
+        "phosphorus": 13.6,
+        "potassium": 19.7
+      },
+      "moisture": 61.4,
+      "ph": 6.5,
+      "crop_type": "Barley",
+      "location": {
+        "latitude": 30.7333,
+        "longitude": 76.7794,
+        "region": "Punjab, India"
+      },
+      "sensor_id": "SOIL_008",
+      "quality_score": 76,
+      "recommendations": [
+        "Increase nitrogen application for barley",
+        "Phosphorus supplementation needed",
+        "Good potassium and moisture levels"
+      ]
+    }
+  }
+}
